@@ -14,6 +14,8 @@ This project details the design and implementation of a digital half-duplex comm
  **Detailed Project Report:** [Read PDF](docs/EC256-ProjectReport.pdf) 
  **Presentation Slides:** [View PDF](docs/EC256-Presentation.pptx) 
 
+ > 📖 **Read the full circuit breakdown, signal flow analysis, and hardware build log on [Hackster.io](https://www.hackster.io/kartikey-tiwari/digital-gfsk-walkie-talkie-architecture-5859e6).**
+
 ## 🛠️ Hardware Stack
 *  **Central Processing Unit:** Arduino UNO (ATmega328P) executing ADC algorithms and PWM-based DAC synthesis.
 *  **RF Transceiver:** NRF24L01 managing the physical layer and GFSK modulation/demodulation at 2.4 GHz.
