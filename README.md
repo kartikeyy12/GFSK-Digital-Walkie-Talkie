@@ -13,6 +13,7 @@ This project details the design and implementation of a digital half-duplex comm
 
  **Detailed Project Report:** [Read PDF](docs/EC256-ProjectReport.pdf) 
  **Presentation Slides:** [View PDF](docs/EC256-Presentation.pptx) 
+ **Presentation Slides:** [Watch Demo Video](https://drive.google.com/file/d/1ouILuM_sI8dZclaWzuerJ9EzGAA2eiIv/view?usp=sharing) 
 
  > 📖 **Read the full circuit breakdown, signal flow analysis, and hardware build log on [Hackster.io](https://www.hackster.io/kartikey-tiwari/digital-gfsk-walkie-talkie-architecture-5859e6).**
 
