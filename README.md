@@ -11,8 +11,6 @@ This project details the design and implementation of a digital half-duplex comm
 
  At the receiving node, the signal is demodulated and synthesized back into an analog waveform utilizing a high-frequency Pulse Width Modulated (PWM) DAC, followed by a passive low-pass filter and an LM386 power amplifier.
 
- **Detailed Project Report:** [Read PDF](docs/EC256-ProjectReport.pdf) 
- **Presentation Slides:** [View PDF](docs/EC256-Presentation.pptx) 
  **Demonstartion Video:** [Watch Demo Video](https://drive.google.com/file/d/1ouILuM_sI8dZclaWzuerJ9EzGAA2eiIv/view?usp=sharing) 
 
  > 📖 **Read the full circuit breakdown, signal flow analysis, and hardware build log on [Hackster.io](https://www.hackster.io/kartikey-tiwari/digital-gfsk-walkie-talkie-architecture-5859e6).**
